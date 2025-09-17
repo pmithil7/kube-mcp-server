@@ -1,0 +1,16 @@
+# HTTP requests
+requests>=2.28.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Utilities
+pydantic>=2.0.0
+
+uvicorn==0.34.2
+
+fastapi>=0.115.3
+
+fastapi-mcp>=0.4.0
+
+mcp>=1.12.0
